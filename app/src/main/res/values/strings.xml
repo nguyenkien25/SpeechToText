@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+
+    <!--FragmentSpeechToText -->
+    <string name="speech_tt_speech_prompt">Say something&#8230;</string>
+    <string name="speech_tt_speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+    <!--FragmentDictionaryText -->
+    <string name="dictionary_text_btn_speech">SPEECH</string>
+
+    <!--Title -->
+    <string name="title">Speech To Text</string>
+
+    <!--FragmentSpeechToText -->
+    <string name="btn_back_text">Back</string>
+</resources>
